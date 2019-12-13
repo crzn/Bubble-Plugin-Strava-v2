@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "social network",
+        "1": "health & fitness"
+    },
+    "description": "Sign up and log in users with their Strava credentials and retrieve athletes' route & activity data.\n\nContact rideon@everyvelo.com for support.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1575957675596x990367324353064600/strava-2.svg",
+    "license": "open_source",
+    "link": "https://www.strava.com",
+    "name": "Strava v2",
+    "plugin_instructions": "1. Register your application at https://www.strava.com/settings/api\n\n2. Once registered, you'll be given a Client ID (App ID) and a Client Secret (App Secret), which you will enter into the plugin settings.\n\n3. Make sure to add an Authorization Callback Domain. This would either be https://[your-app-name].bubbleapps.io or your custom domain. "
+}
